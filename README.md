@@ -2,9 +2,12 @@
 
 중부대학교 게임소프트웨어학과 91913256_김재훈
 
-## 환경설정
+## Manual
 
-pip install -r requirements.txt
+1. 변환될 이미지 (content.jpg) + 스타일 이미지 (style.jpg) 준비
+2. 이미지를 Colab Notebooks/data 에 넣기
+3. 처음 실행인 경우 처음부터 실행, 이후부터는 cfg 부터 실행
+4. 10epoch 마다 Colab Notebooks/output에 저장
 
 ## Style transfer 결과
 
