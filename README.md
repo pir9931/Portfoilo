@@ -23,7 +23,7 @@ pip install -r requirements.txt
 <table align="center">
   <tr>
     <th style="text-align: center;">Epoch: 20</th>
-    <th style="text-align: center;">Epoch: 100 (paper)</th>
+    <th style="text-align: center;">Epoch: 100</th>
   </tr>
   <tr>
     <td><img src="asset/LBGFS_epoch_20.jpg" width="300" height="300"></td>
