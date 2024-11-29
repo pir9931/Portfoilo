@@ -22,11 +22,11 @@ pip install -r requirements.txt
 
 <table align="center">
   <tr>
-    <th style="text-align: center;">Optimizer: Adam</th>
-    <th style="text-align: center;">Optimizer: LBFGS (paper)</th>
+    <th style="text-align: center;">Epoch: 20</th>
+    <th style="text-align: center;">Epoch: 100 (paper)</th>
   </tr>
   <tr>
-    <td><img src="asset/Adam_epoch_9000.jpg" width="300" height="300"></td>
-    <td><img src="asset/LBGFS_epoch_500.jpg" width="300" height="300"></td>
+    <td><img src="asset/LBGFS_epoch_20.jpg" width="300" height="300"></td>
+    <td><img src="asset/LBGFS_epoch_100.jpg" width="300" height="300"></td>
   </tr>
 </table>
